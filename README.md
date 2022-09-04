@@ -33,5 +33,5 @@ The above equation allows us to estimate pi from the simulated information. Esse
 # References:
 </p>
 <p>
-img: Author: Manas Sharma, https://www.bragitoff.com/2021/05/value-of-pi-using-monte-carlo-python-program/
+img: Author: NCLAB, https://nclab.com/using-the-monte-carlo-method-to-calculate-the-value-of-pi/
 </p>
