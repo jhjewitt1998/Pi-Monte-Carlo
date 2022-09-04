@@ -1,11 +1,11 @@
 # Estimating Pi Via the Monte Carlo Simulation Method (Pi-Monte-Carlo)
 <p>
-This script uses the monte carlo algorithm to estimate pi. The x coords, y coords, points in the circle, estimation of pi and variance are all recoreded in a pandas df for further manipulation if needed.</p>
+This script uses the monte carlo method to estimate pi. The x coords, y coords, points in the circle, estimation of pi and variance are all recoreded in a pandas df for further manipulation if needed.</p>
 
 # Monte Carlo Simulation
 
 <p>
-The Monte Carlo Simulation is a mathamatical technique which uses random sampling to estimate the possible outcomes of an uncertain event, in this event calculating pi. This example is specifically done by generating a random 2d coordinate and checking if its inside or outside of the circle, as seen in the image below. Pi is estimated by calculating the ratio of points that lay inside the circle and total number points which had been generated overall.
+The Monte Carlo Simulation is a mathamatical technique which uses random sampling to estimate the possible outcomes of an uncertain event, in this event calculating pi. This example is specifically done by generating random 2d coordinates and checking if they are inside or outside of the circle, as seen in the image below. Pi is estimated by calculating the ratio of points that lay inside the circle and total number points which have been generated overall.
 </P>
 
 <p align="center">
